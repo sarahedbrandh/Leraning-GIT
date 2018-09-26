@@ -12,7 +12,7 @@ img {
 .grid-container {
   background-color: rgba(240, 258, 255, 0.507);
   border-style: dotted;
-  border-width: 1em;
+  border-width: 2em;
   border-color: antiquewhite;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
