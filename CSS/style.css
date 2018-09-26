@@ -4,6 +4,10 @@ body {
 }
 
 img {
-  width: 100%;
+  width: 50%;
   height: auto;
+}
+
+h1 {
+  color: white;
 }
