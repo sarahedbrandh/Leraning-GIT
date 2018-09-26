@@ -1,4 +1,9 @@
 body {
   margin: 0;
-  background-color: black;
+  background-color: saddlebrown;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
